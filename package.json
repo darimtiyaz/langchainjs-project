@@ -1,0 +1,24 @@
+{
+  "name": "langchain-project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.1.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "faiss-node": "^0.3.0",
+    "langchain": "^0.0.125",
+    "openai": "^3.3.0",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "url": "^0.11.1"
+  }
+}
